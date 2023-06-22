@@ -1,0 +1,303 @@
+[
+    {
+        "data": [
+            {
+                "input": "cliente: buenas tiene arroz chino sin camarones",
+                "output": [
+                    "arroz chino sin camarones"
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: quiero una tremenda sin cebolla",
+                "output": [
+                    "tremenda sin cebolla"
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: deseo una orden de arroz chino y un arroz  paisa  , el primero sin salsa inglesa",
+                "output": [
+                    "arroz chino sin salsa ingles" , "arroz paisa"
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: 2 ordenes de shawarma , uno sin cebolla",
+                "output": [
+                    "shawarma ", "shawarma sin cebolla"
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: aun le queda kibbes vegano?",
+                "output": [
+                    "kibbes vegano"
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: el mismo de siempre sandwich cubano sin cebella y un jugo de naranja",
+                "output": [
+                    "sandwich cubano sin cebella","jugo de naranja"
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: paso a recoger , combo 2 con cocacola personal",
+                "output": [
+                    "combo 2","cocacola personal"
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: flaco dos arepa de queso y una con pollo ",
+                "output": [
+                    "arepa de queso","arepa con pollo"
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: quiero 1 tamal de la abuela  dos masatos y un baggette de ajo ",
+                "output": [
+                    "tamal de la abuela","masato" ,"baggete de ajo"
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: necesito una orden de arroz mixto, 2 jugos de mora, uno sin azucar ",
+                "output": [
+                    "arroz mixto","jugo de mora" ,"jugo de mora sin azucar"
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: le quedan pasteles de pollo, quiero 2 de esos y una avena",
+                "output": [
+                    "pastel de pollo","avena" 
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: si le quedan arepas mixtas, me llevo tres de esas",
+                "output": [
+                    "arepa mixta" 
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: deseo un sandwich cubano con papas a la francesa y me adiciona otra porcion de papas",
+                "output": [
+                    "sandwich cubano con papas a la francesa" , "porción de papas" 
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: una picada epica, sin cebolla por favor",
+                "output": [
+                    "picada epica sin cebolla"  
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: dos hamburguesas de la casa una sin salsas",
+                "output": [
+                    "hamburguesa de la casa" , "hamburguesa de la casa sin salsas"  
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: me da dos perros especiales y 1 hamburguesa vegana, uno de los perros sin queso",
+                "output": [
+                    "perro especial" , "perro especial sin queso" , "hamburguesa vegana"  
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: me avisan para recoger 2 combos de sushi y un jugo de limon",
+                "output": [
+                    "combo sushi" , "jugo de limon"   
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: venga deme una mediana hawaina y 1 pequeña rachera",
+                "output": [
+                    "mediana hawaina" , "pequeña ranchera"   
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: chico tres maicitos uno sin salsas",
+                "output": [
+                    "maicitos",
+                    "maicitos sin salsas"    
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: quiero dos combos uno sin cebolla el otro con doble queso",
+                "output": [
+                    "combo sin cebolla" , "combo con doble queso"    
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: ven deme dos picadas personales 1 gaseosa litro adicional un perro salvaje",
+                "output": [
+                    "picada personal" , "gaseosa litro" ,"perro salvaje"    
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: quiero tres porciones de arroz chino 1 con doble de camaron",
+                "output": [
+                    "arroz chino" , "arroz chino con doble camaron"     
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: amigo deme un ceviche ,yo paso a recogerlo",
+                "output": [
+                    "ceviche"     
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: don me da un taco extra picante y una cervaza en lata",
+                "output": [
+                    "taco extra picante" , "cervaza en lata"      
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: seño 3 hamburguesas veganas dos con salsa de ajo y la otra con salsa BBQ",
+                "output": [
+                    "hamburguesa vegana con salsa de ajo" , "hamburguesa vegana con salsa BBQ"     
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: si tienen bandejas paisas deme dos para llevar una sin chorizo",
+                "output": [
+                    "bandeja paisa" , "bandeja paisa sin chorizo"     
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: quiero 5 pasteles de pollo, 2 de garbanzos y dos juegos uno de limon otro de naranja , el segundo sin azucar",
+                "output": [
+                    "pastel de pollo" , "pastel de garbanzo" , "jugo de limon" ,"jugo de naranja sin azucar"     
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: hermano 3 tacos de la casa  1 con guacamole",
+                "output": [
+                    "taco de la casa" , "taco de la casa con guacamole"      
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: pido 2 crepes uno de lomo arabe el otro tradcional",
+                "output": [
+                    "crepe de lomo arabe" , "crepe tradicional"      
+                ]
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "input": "cliente: quiero un wafle pequeño , dos cafes uno con leche y el otro sin azucar",
+                "output": [
+                    "wafle pequeño" , "cafe con leche" , "cafe sin azucar"      
+                ]
+            }
+        ]
+    }
+]
